@@ -50,6 +50,9 @@
 [<code>
 <img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
 </code>](https://www.kernel.org/)
+[<code>
+<img alt="Discord.js" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fjasonhaxstuff.gallerycdn.vsassets.io%2Fextensions%2Fjasonhaxstuff%2Fdiscord-js-tools%2F0.0.3%2F1530824658924%2FMicrosoft.VisualStudio.Services.Icons.Default&f=1&nofb=1">
+</code>](https://discord.js.org/?source=post_page---------------------------#/)
 
 ---
 
