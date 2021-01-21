@@ -19,17 +19,14 @@
 <img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
 </code>](https://docs.oracle.com/en/java/)
 [<code>
-<img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
-</code>](https://www.python.org/)
-[<code>
-<img alt="typescript" width="26px" src="https://img.icons8.com/color/240/000000/typescript.png">
-</code>](https://www.typescriptlang.org/)
-[<code>
 <img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
 </code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<code>
 <img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
 </code>](https://nodejs.org/en/)
+[<code>
+<img alt="Discord.js" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fjasonhaxstuff.gallerycdn.vsassets.io%2Fextensions%2Fjasonhaxstuff%2Fdiscord-js-tools%2F0.0.3%2F1530824658924%2FMicrosoft.VisualStudio.Services.Icons.Default&f=1&nofb=1">
+</code>](https://discord.js.org/?source=post_page---------------------------#/)
 [<code>
 <img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
 </code>](https://github.com/)
@@ -46,9 +43,6 @@
 [<code>
 <img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
 </code>](https://www.kernel.org/)
-[<code>
-<img alt="Discord.js" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fjasonhaxstuff.gallerycdn.vsassets.io%2Fextensions%2Fjasonhaxstuff%2Fdiscord-js-tools%2F0.0.3%2F1530824658924%2FMicrosoft.VisualStudio.Services.Icons.Default&f=1&nofb=1">
-</code>](https://discord.js.org/?source=post_page---------------------------#/)
 
 ---
 
