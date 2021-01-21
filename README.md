@@ -2,7 +2,10 @@
 
 ## I'm a Student Developer!
 
-- 🔭 
+- 🤖 Owner of Vibe Discord bot! 
+- 🌱 Working on my Java knowledge! 
+- 🥅 Goals: Getting Vibe's website up and running to the public! 
+- ⚡ Fun fact: I'm alive
 
 
 ---
@@ -43,6 +46,9 @@
 [<code>
 <img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
 </code>](https://www.kernel.org/)
+[<code> 
+<img alt="Vibe" width="26px" src="https://vibe.crispyyy.repl.co/images/pfp/circle-cropped.png">
+</code>](https://discord.boats/bot/vibe)
 
 ---
 
