@@ -1,12 +1,4 @@
-### Hi! I'm Crispy! 👋
-
-## I'm a Student Developer!
-
-- 🤖 Owner of Vibe Discord bot! 
-- 🌱 Working on my Java knowledge! 
-- 🥅 Goals: Getting Vibe's website up and running to the public! 
-- ⚡ Fun fact: I'm alive
-
+### Hi! I'm Crispy a Student Developer!
 
 ---
 
