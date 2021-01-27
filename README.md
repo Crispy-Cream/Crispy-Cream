@@ -45,14 +45,6 @@
 <img alt="Vibe" width="26px" src="https://vibe.crispyyy.repl.co/images/pfp/circle-cropped.png">
 </code>](https://discord.boats/bot/vibe)
 
-
----
-
-### Spotify 
-
-.. image:: https://nowplaying.aidenwallis.co.uk/6011c297adffb91b3c98f2ae
-   :target: http://spotify.com
-
 ---
 
 <a href="https://github.com/Crispy-Cream">
