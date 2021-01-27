@@ -50,7 +50,9 @@
 
 ### Spotify 
 
-![alt text](https://nowplaying.aidenwallis.co.uk/6011c297adffb91b3c98f2ae)
+[<code> 
+<img alt="Spotify" src="https://nowplaying.aidenwallis.co.uk/6011c297adffb91b3c98f2ae">
+</code>](spotify.com)
 
 ---
 
