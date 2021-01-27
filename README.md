@@ -48,6 +48,12 @@
 
 ---
 
+### Spotify 
+
+![alt text](https://nowplaying.aidenwallis.co.uk/6011c297adffb91b3c98f2ae)
+
+---
+
 <a href="https://github.com/Crispy-Cream">
 <img align="center" alt="Crispy's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Crispy-Cream&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 <a href="https://github.com/Crispy-Cream">
