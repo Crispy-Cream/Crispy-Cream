@@ -45,12 +45,6 @@
 <img alt="Vibe" width="26px" src="https://vibe.crispyyy.repl.co/images/pfp/circle-cropped.png">
 </code>](https://discord.boats/bot/vibe)
 
----
-
-### Spotify:
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/tylermtexas)
-
 
 ---
 
