@@ -47,6 +47,13 @@
 
 ---
 
+### Spotify:
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/tylermtexas)
+
+
+---
+
 <a href="https://github.com/Crispy-Cream">
 <img align="center" alt="Crispy's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Crispy-Cream&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 <a href="https://github.com/Crispy-Cream">
