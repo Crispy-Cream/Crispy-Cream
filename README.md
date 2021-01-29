@@ -45,7 +45,6 @@
 <img alt="Vibe" width="26px" src="https://vibe.crispyyy.repl.co/images/pfp/circle-cropped.png">
 </code>](https://discord.boats/bot/vibe)
 
----
 
 <a href="https://github.com/Crispy-Cream">
 <img align="center" alt="Crispy's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Crispy-Cream&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
