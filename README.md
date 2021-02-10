@@ -54,4 +54,4 @@
 
 ---
 
-[![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)]
+[![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)
