@@ -1,7 +1,11 @@
 ### Hi! I'm Crispy a Student Developer!
 
 ---
+### Current Projects: 
 
+[Projects](https://github.com/Crispy-Cream?tab=projects)
+
+---
 ### Languages and Tools:
 
 [<code>
