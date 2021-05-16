@@ -3,8 +3,10 @@
 ---
 ### Current Projects: 
 
-[Projects](https://github.com/Crispy-Cream?tab=projects)
+[All Projects](https://github.com/Crispy-Cream?tab=projects)
 
+- [Vibe Discord Bot BETA (All awesome projects are here :))](https://github.com/users/Crispy-Cream/projects/1)
+- [Vibe Discord Bot](https://github.com/users/Crispy-Cream/projects/2)
 ---
 ### Languages and Tools:
 
