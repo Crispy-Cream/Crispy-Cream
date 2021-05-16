@@ -8,9 +8,8 @@
 - [Vibe Discord Bot BETA (All awesome projects are here :))](https://github.com/users/Crispy-Cream/projects/1)
 - [Vibe Discord Bot](https://github.com/users/Crispy-Cream/projects/2)
 ---
-<details>
-<summary>Languages | Tools | Github Stats:</summary>
-<br>
+### Languages and Tools:
+
 [<code>
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 </code>](https://code.visualstudio.com/)
@@ -50,7 +49,12 @@
 </code>](https://www.kernel.org/)
 [<code> 
 <img alt="Vibe" width="26px" src="https://vibe.crispyyy.repl.co/images/pfp/circle-cropped.png">
-</code>](https://discord.boats/bot/vibe
+</code>](https://discord.boats/bot/vibe)
+
+---
+<details>
+<summary>Github Stats</summary>
+<br>
 
 <a href="https://github.com/Crispy-Cream">
 <img align="center" alt="Crispy's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Crispy-Cream&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
