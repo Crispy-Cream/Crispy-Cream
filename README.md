@@ -62,6 +62,8 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Crispy-Cream&layout=compact&theme=radical" />
 </a>
 <br><br>
+</details>
+
 ---
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tylermtexas&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
