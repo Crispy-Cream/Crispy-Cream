@@ -51,6 +51,7 @@
 <img alt="Vibe" width="26px" src="https://vibe.crispyyy.repl.co/images/pfp/circle-cropped.png">
 </code>](https://discord.boats/bot/vibe)
 
+
 <details>
 <summary>Github Stats</summary>
 <br>
