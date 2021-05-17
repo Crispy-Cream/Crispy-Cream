@@ -10,21 +10,6 @@
 ---
 ### Languages and Tools:
 
- <p align="center">
-  [<code><img title="Javascript" height="25" src="https://img.icons8.com/color/240/000000/javascript.png"></code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  [code><img title="JAVA" height="25" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png"></code>](https://docs.oracle.com/en/java/)
-  [<code><img title="HTML5" height="25" src=".https://img.icons8.com/color/240/000000/html-5.png"></code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-  [<code><img title="Git" height="25" src="./images/git-original.svg"></code>]()
-  [<code><img title="NPM" height="25" src="./images/npm.svg"></code>]()
-  [<code><img title="MySQL" height="25" src="./images/mysql.svg"></code>]()
-  [<code><img title="JSON" height="25" src="./images/json.svg"></code>]()
-  [<code><img title="GitHub" height="25" src="./images/github.svg"></code>]()
-  [<code><img title="Visual Studio Code" height="25" src="./images/vscode.png"></code>](https://code.visualstudio.com/)
-  [<code><img title="Atom" hight="25" src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png"></code>](https://atom.io/)
-  [<code><img title="Node.js" width="25" src="https://img.icons8.com/color/240/000000/nodejs.png"></code>](https://nodejs.org/en/)
-  </p>
-
-
 [<code>
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 </code>](https://code.visualstudio.com/)
