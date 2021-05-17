@@ -1,7 +1,7 @@
 ### Hi! I'm Crispy a Student Developer!
 
 ---
-### Current Projects: 
+### Current Public Projects: 
 
 [All Projects](https://github.com/Crispy-Cream?tab=projects)
 
