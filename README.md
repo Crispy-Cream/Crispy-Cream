@@ -59,7 +59,7 @@
 <a href="https://github.com/Crispy-Cream">
 <img align="center" alt="Crispy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=crispy-cream&show_icons=true&theme=radical" /></a>
 <a href="https://github.com/Crispy-Cream">
-  <img align="center" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=crispy-cream&langs_count=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crispy-cream&langs_count=8" />
 </a>
 <br><br>
 </details>
