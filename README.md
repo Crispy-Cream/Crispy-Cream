@@ -61,6 +61,9 @@
 <a href="https://github.com/Crispy-Cream">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crispy-cream&langs_count=8&theme=radical" />
 </a>
+<a href="https://github.com/Crispy-Cream">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Crispy-Cream&theme=radical" />
+</a>
 <br><br>
 </details>
 
