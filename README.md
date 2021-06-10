@@ -5,8 +5,9 @@
 
 [All Projects](https://github.com/Crispy-Cream?tab=projects)
 
-- [Vibe Discord Bot BETA (All awesome projects are here :))](https://github.com/users/Crispy-Cream/projects/1)
+- [Vibe Discord Bot MAIN COPY (Vibe Discord Bot future update)](https://github.com/users/Crispy-Cream/projects/4)
 - [Vibe Discord Bot](https://github.com/users/Crispy-Cream/projects/2)
+- [Vibe Discord Bot BETA](https://github.com/users/Crispy-Cream/projects/1)
 ---
 ### Some Languages and Tools:
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
