@@ -10,15 +10,17 @@
 ### I'm a Student Developer 
 
 <details>
-<summary>Github Stats</summary>
+<summary>Projects</summary>
 <br>
 
-<a href="https://github.com/Crispy-Cream">
-<img align="center" alt="Crispy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=crispy-cream&show_icons=true&theme=dracula" /></a>
-<br>
-<a href="https://github.com/Crispy-Cream">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crispy-cream&langs_count=8&theme=dracula&layout=compact" />
-</a>
+- [Projects](https://github.com/Crispy-Cream?tab=projects)
+  - Vibe Discord Bot 
+  - Personal Website
+  - QOTD Discord Bot
+  - Dreamers Network
+  - Shandler
+  - Github-API
+  - And so much more.
 
 <br><br>
 </details>
@@ -31,5 +33,19 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tylermtexas&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
   
+<br><br>
+</details>
+
+<details>
+<summary>Github Stats</summary>
+<br>
+
+<a href="https://github.com/Crispy-Cream">
+<img align="center" alt="Crispy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=crispy-cream&show_icons=true&theme=dracula" /></a>
+<br>
+<a href="https://github.com/Crispy-Cream">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crispy-cream&langs_count=8&theme=dracula&layout=compact" />
+</a>
+
 <br><br>
 </details>
