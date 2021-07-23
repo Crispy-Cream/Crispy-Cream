@@ -1,13 +1,10 @@
 ### Hi! I'm Crispy a Student Developer!
 
 ---
-### Current Public Projects: 
+### Contact Me
 
-[All Projects](https://github.com/Crispy-Cream?tab=projects)
+[Discord](https://discord.com/users/455139054464270345)
 
-- [Vibe Discord Bot MAIN COPY (Vibe Discord Bot future update)](https://github.com/users/Crispy-Cream/projects/4)
-- [Vibe Discord Bot](https://github.com/users/Crispy-Cream/projects/2)
-- [Vibe Discord Bot BETA](https://github.com/users/Crispy-Cream/projects/1)
 ---
 ### Some Languages and Tools:
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
