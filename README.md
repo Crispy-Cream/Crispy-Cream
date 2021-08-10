@@ -3,7 +3,7 @@
 </h1>
 
 <a href="https://discord.com/users/455139054464270345">
-  <img src="https://lanyard-profile-readme.vercel.app/api/455139054464270345" align="right" />
+  <img src="https://lanyard-profile-readme.vercel.app/api/455139054464270345?animated=true" align="right" />
 </a>
 
 
