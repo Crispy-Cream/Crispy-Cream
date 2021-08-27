@@ -40,7 +40,12 @@
 <summary>Github Stats</summary>
 <br>
 
-![Metrics](https://metrics.lecoq.io/Crispy-Cream?template=classic&repositories.forks=true&base.community=0&base.repositories=0&isocalendar=1&languages=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.details=bytes-size%2C%20percentage&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FChicago)
+<a href="https://github.com/Crispy-Cream">
+<img align="center" alt="Crispy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=crispy-cream&show_icons=true&theme=dracula" /></a>
+<br>
+<a href="https://github.com/Crispy-Cream">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crispy-cream&langs_count=8&theme=dracula&layout=compact" />
+</a>
 
 <br><br>
 </details>
