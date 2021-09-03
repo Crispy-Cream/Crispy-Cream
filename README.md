@@ -12,10 +12,10 @@
 <details>
 <summary>Projects</summary>
 <br>
+  
+![Metrics](github-metrics.svg)
 
-  ![Metrics](github-metrics.svg)
-
-  *[Projects](https://github.com/Crispy-Cream?tab=projects)*
+*[Projects](https://github.com/Crispy-Cream?tab=projects)*
 <br><br>
 </details>
 
