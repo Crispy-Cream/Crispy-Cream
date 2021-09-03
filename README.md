@@ -13,15 +13,9 @@
 <summary>Projects</summary>
 <br>
 
-- [Projects](https://github.com/Crispy-Cream?tab=projects)
-  - Vibe Discord Bot 
-  - Personal Website
-  - QOTD Discord Bot
-  - Dreamers Network
-  - Shandler
-  - Github-API
-  - And so much more.
+  ![Metrics](github-metrics.svg)
 
+  *[Projects](https://github.com/Crispy-Cream?tab=projects)*
 <br><br>
 </details>
 
