@@ -14,15 +14,13 @@
 <br>
   
 ![Metrics](github-metrics.svg)
-
 *[Projects](https://github.com/Crispy-Cream?tab=projects)*
-<br><br>
+
 </details>
 
 <details>
 <summary>Spotify</summary>
 <br>
-
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tylermtexas&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 <br>
