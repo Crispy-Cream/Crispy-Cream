@@ -11,7 +11,6 @@
 
 <details>
 <summary>Projects</summary>
-<br>
   
 ![Metrics](github-metrics.svg)
 *[Projects](https://github.com/Crispy-Cream?tab=projects)*
