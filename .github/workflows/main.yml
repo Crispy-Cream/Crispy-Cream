@@ -21,4 +21,4 @@ jobs:
           base: ""
           config_timezone: America/Chicago
           plugin_projects: yes
-          plugin_projects_limit: 4
+          plugin_projects_limit: 6
