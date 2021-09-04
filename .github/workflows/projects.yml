@@ -1,0 +1,19 @@
+name: ProjectsSVG
+on:
+  schedule: [{cron: "0 * * * *"}]
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          user: Crispy-Cream
+          template: classic
+          base: ""
+          config_timezone: America/Chicago
+          plugin_projects: yes
+          plugin_projects_limit: 6
