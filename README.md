@@ -6,10 +6,7 @@
 [//]: <> (<img src="https://lanyard-profile-readme.vercel.app/api/455139054464270345?animated=true&borderRadius=30px" align="right" />)
 [//]: <> (</a> )
 
-
-[![discord-profile](https://lanyard-profile-readme.vercel.app/api/455139054464270345?animated=true&borderRadius=30px)](https://discord.com/users/455139054464270345)
-
-### I'm a Student Developer 
+### I'm a Student Developer
 
 <details>
 <summary>Projects</summary>
@@ -35,3 +32,7 @@
  
 <br><br>
 </details>
+
+<br>
+
+[![discord-profile](https://lanyard-profile-readme.vercel.app/api/455139054464270345?animated=true&borderRadius=30px)](https://discord.com/users/455139054464270345)
