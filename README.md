@@ -10,6 +10,7 @@
 
 ### I'm a Student Developer 
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tylermtexas&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 <details>
 <summary>Projects</summary>
@@ -30,10 +31,8 @@
 <details>
 <summary>Github Stats</summary>
 <br>
-
-Image not working? [Reload page](https://github.com/Crispy-Cream).
-
-![Metrics](https://metrics.lecoq.io/Crispy-Cream?template=classic&repositories.forks=true&base.community=0&base.repositories=0&isocalendar=1&languages=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.details=bytes-size%2C%20percentage&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FChicago)
+  
+![Metrics](https://raw.githubusercontent.com/Crispy-Cream/img-gen/5dff850330e90515ffe2c2faa197ce0343e2f2ca/github-metrics.svg)
  
 <br><br>
 </details>
