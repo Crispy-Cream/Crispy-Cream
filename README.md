@@ -9,14 +9,6 @@
 ### I'm a Student Developer
 
 <details>
-<summary>Projects</summary>
-  
-![Metrics](github-metrics.svg)
-*[Projects](https://github.com/Crispy-Cream?tab=projects)*
-
-</details>
-
-<details>
 <summary>Spotify</summary>
 <br>
   
@@ -24,15 +16,7 @@
 <br>
 </details>
 
-<details>
-<summary>Github Stats</summary>
 <br>
-  
 ![Metrics](https://raw.githubusercontent.com/Crispy-Cream/img-gen/5dff850330e90515ffe2c2faa197ce0343e2f2ca/github-metrics.svg)
- 
-<br><br>
-</details>
-
-<br>
 
 [![discord-profile](https://lanyard-profile-readme.vercel.app/api/455139054464270345?animated=true&borderRadius=30px)](https://discord.com/users/455139054464270345)
