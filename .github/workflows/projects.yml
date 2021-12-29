@@ -1,6 +1,8 @@
-name: ProjectsSVG
+name: Metrics
 on:
-  schedule: [{cron: "0 0 * * 1,3,5"}]
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 0 * * *"}]
+  # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 jobs:
@@ -9,11 +11,22 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
 
+          # Options
           user: Crispy-Cream
           template: classic
-          base: ""
+          base: header, activity
           config_timezone: America/Chicago
-          plugin_projects: yes
-          plugin_projects_limit: 6
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_languages: yes
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
