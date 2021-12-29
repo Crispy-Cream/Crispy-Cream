@@ -20,7 +20,7 @@
 <summary>Github Stats</summary>
 <br>
   
-![Github-Stats](https://raw.githubusercontent.com/Crispy-Cream/img-gen/5dff850330e90515ffe2c2faa197ce0343e2f2ca/github-metrics.svg)
+![Github-Stats](https://raw.githubusercontent.com/Crispy-Cream/Crispy-Cream/30907961d0b46122295661e6c36a9d284a296b69/github-metrics.svg)
 <br>
 </details>
 
