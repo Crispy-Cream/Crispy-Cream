@@ -12,4 +12,4 @@
 
 [![discord-profile](https://lanyard-profile-readme.vercel.app/api/455139054464270345?animated=true&borderRadius=30px)](https://discord.com/users/455139054464270345)
 
-![Github-Stats](https://raw.githubusercontent.com/Crispy-Cream/Crispy-Cream/30907961d0b46122295661e6c36a9d284a296b69/github-metrics.svg)
+![Github-Stats](https://raw.githubusercontent.com/Crispy-Cream/Crispy-Cream/main/github-metrics.svg)
